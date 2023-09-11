@@ -1,4 +1,7 @@
-### Hi there 👋
+✨
+- 💻 Stack: **Java, Go, Php**
+- 🔥 Interested in Blockchain & DeFi
+✨
 
 <!--
 **MrClean-code/MrClean-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +21,3 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrClean-code&theme=solarized_dark)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrClean-code&theme=solarized_dark)
