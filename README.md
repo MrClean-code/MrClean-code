@@ -1,5 +1,5 @@
 ✨
-- 💻 Stack: **Java, Go, Php**
+- 💻 Stack: **Java, Go, PhP**
 - 🔥 Interested in Blockchain & DeFi
 
 ✨
