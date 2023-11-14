@@ -1,8 +1,5 @@
-✨
-- 💻 Stack: **Java, Go, PhP**
-- 🔥 Interested in Blockchain & DeFi
 
-✨
+- 💻 Stack: **Java, Go, PhP**
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrClean-code)
 
